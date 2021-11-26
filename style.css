@@ -12,11 +12,11 @@ body {
 
 .card {
   background: #000000d0;
-  color: Red;
+  color: white;
   padding: 2em;
   border-radius: 10px;
   width: 100%;
-  max-width: 420px;
+  max-width: 100%;
   margin: 1em;
 }
 
