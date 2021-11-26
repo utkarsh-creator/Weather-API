@@ -78,7 +78,7 @@ h1.temp {
   visibility: hidden;
   max-height: 20px;
   position: relative;
-  padding-left: 50px;
+  padding: 100px;
 
 }
 
