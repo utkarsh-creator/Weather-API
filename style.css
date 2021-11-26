@@ -8,6 +8,7 @@ body {
   background: #222;
   background-image: url('https://source.unsplash.com/random');
   font-size: 120%;
+  position: center;
 }
 
 .card {
@@ -73,7 +74,7 @@ h1.temp {
 .weather.loading {
   visibility: hidden;
   max-height: 20px;
-  position: center;
+  position: relative;
 
 }
 
