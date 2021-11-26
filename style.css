@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: 'Open Sans', sans-serif;
   background: #222;
-  background-image: url('https://source.unsplash.com/user/erondu');
+  background-image: url('https://source.unsplash.com/random');
   font-size: 120%;
 }
 
@@ -32,7 +32,7 @@ button {
   border: none;
   height: 44px;
   width: 44px;
-  outline: none;
+  outline: none;-
   background: #7c7c7c2b;
   color: white;
   cursor: pointer;
@@ -45,7 +45,7 @@ input.search-bar {
   padding: 0.4em 1em;
   border-radius: 24px;
   background: #7c7c7c2b;
-  color: white;
+  color: red;
   font-family: inherit;
   font-size: 105%;
   width: calc(100% - 100px);
