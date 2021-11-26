@@ -9,6 +9,7 @@ body {
   background-image: url('https://source.unsplash.com/random');
   font-size: 120%;
   position: center;
+  padding-left: 30px;
 }
 
 .card {
