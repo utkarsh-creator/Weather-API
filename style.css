@@ -93,6 +93,10 @@ h1.temp {
 }
 
 .city {
-  padding-left: 400px;
+  padding-left: 500px;
   align-content: center;
+}
+
+.temp {
+  padding-left: 500px;
 }
