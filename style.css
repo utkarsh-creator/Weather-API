@@ -79,6 +79,8 @@ h1.temp {
   max-height: 20px;
   position: relative;
   padding: 100px;
+  padding-left: 300px;
+  padding-right: 300px;
 
 }
 
