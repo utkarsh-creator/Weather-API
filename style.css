@@ -79,7 +79,7 @@ h1.temp {
   max-height: 20px;
   position: relative;
   padding-left: 300%;
-  
+
 
 }
 
@@ -90,4 +90,8 @@ h1.temp {
   position: absolute;
   top: 0;
   left: 20px;
+}
+
+.city {
+  padding-left: 100px;
 }
