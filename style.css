@@ -73,8 +73,8 @@ h1.temp {
 .weather.loading {
   visibility: hidden;
   max-height: 20px;
-  position: relative;
-  align-items: center;
+  position: center;
+
 }
 
 .weather.loading:after {
