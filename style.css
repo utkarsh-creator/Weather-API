@@ -78,8 +78,8 @@ h1.temp {
   visibility: hidden;
   max-height: 20px;
   position: relative;
-  padding-left: 300px;
-  padding-right: 300px;
+  padding-left: 300%;
+  
 
 }
 
